@@ -6,10 +6,10 @@ The project was made by Odd Harald Auglend, Hans-Hendrik Karro and Jakub Paczusk
 
 This repository consists of folders and code files that are necessary to run the exemplary network. The network was designed to satisfy the needs of the beef production branch of the agricultural industry with the emphasis on supply chain management. The network builts upon the fabcar example provided and explained in Hyperledger documentation.
 
-In order to run commands mentioned in Simulation part of the report please use the following command
+In order to run commands mentioned in Simulation part of the report (including start of the network) please use the following command when in the cloned directory.
 
 ```console
-$ sh RUNME.txt
+$ ./RUNME.sh
 ```
 
 This will trigger all required commands.
