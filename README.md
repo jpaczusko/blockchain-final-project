@@ -14,4 +14,6 @@ $ sh RUNME.txt
 
 This will trigger all required commands.
 
+In case of some errors, there is a functionality.mp4 file uploaded with all steps recorded.
+
 Enjoy!
