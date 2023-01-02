@@ -1,12 +1,3 @@
-echo "----- Moving to farm/ -----"
-cd farm
-echo "----- Starting network -----"
-./startFabric.sh
-echo "----- Moving to javascript/ -----"
-cd javascript/
-echo "----- Installing npm and grpc -----"
-npm install —-unsafe-perm
-npm install grpc —-unsafe-perm
 echo "----- enrolling admin and registering user -----"
 node enrollAdmin.js
 node registerUser.js
